@@ -124,7 +124,7 @@ form {
   padding: 2.5rem 0.625rem;
   border-radius: 0.25rem;
   opacity:0.7;
-  font-color: #FFFFFF;
+  color: #FFFFFF;
 }
 
 @media (min-width: 480px) {
